@@ -4,9 +4,17 @@ react router task
 * using react router dom package
 * this application 
    1  /all -all components
+
+  
    2  /fsd -Full Stack Development components
+
+  
    3  /datasc -Data Scince components
+
+  
    4  /cyber -Cyber Secrity components
+
+  
    5  /career -career components
 
  
