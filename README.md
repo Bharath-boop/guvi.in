@@ -2,7 +2,9 @@
 react router task
 * routing the application
 * using react router dom package
-* this application 
+* this application
+
+
    1  /all -all components
 
   
