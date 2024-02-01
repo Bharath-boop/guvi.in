@@ -4,6 +4,8 @@ react router task
 * using react router dom package
 * this application
 
+* NOTE: the url "https://guvi-in.vercel.app/all" in the path of /all clear Get the application link  "https://guvi-in.vercel.app"
+
 
    1  /all -all components
 
